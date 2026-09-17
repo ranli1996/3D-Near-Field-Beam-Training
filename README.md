@@ -2,7 +2,7 @@
 
 This repository contains the MATLAB implementation and simulation codes for the paper:
 
-**R. Li, Z. Xu, and Y.-J. A. Zhang,  
+R. Li, Z. Xu, and Y.-J. A. Zhang,  
 "3D Near-Field Beam Training for Uniform Planar Arrays: Low-Overhead Approaches Leveraging Beam Diverging,"  
 IEEE Trans. Wireless Commun., Aug. 2026
 
